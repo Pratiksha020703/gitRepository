@@ -1,2 +1,2 @@
 # gitRepository
-Author Pratiksha
+Author Pratiksha Mahajan
